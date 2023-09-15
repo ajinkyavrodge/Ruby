@@ -1,1 +1,1 @@
-# Ruby
+# jenkins-example-scripts-ruby
